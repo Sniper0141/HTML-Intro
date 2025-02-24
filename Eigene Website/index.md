@@ -27,6 +27,6 @@ nutzen als Hilfe. Du kannst auch das Internet nutzen, um sachen nachzuschauen. (
 Du darfst auch jederzeit deinen Betreuer Fragen.
 
 
-### Schritt <ende>
+### Schritt 3 (Optional)
 
 Nun können wir die Website auf Github Pages veröffentlichen. Schau das zusammen mit deinem Betreuer an :)
