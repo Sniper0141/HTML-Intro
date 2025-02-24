@@ -23,9 +23,7 @@ Gib deinem Betreuer kurz bescheid was du machen willst bevor du startest.
 ### Schritt 2
 
 Nun kannst du anfangen die Website zu machen. Du kannst alles, was du bisher bekommen hast an Aufgaben und so weiter
-nutzen als Hilfe. Du kannst auch das Internet nutzen, um sachen nachzuschauen. (z.B. [W3School](https://www.w3schools.com/html/)).
-Du darfst auch jederzeit deinen Betreuer Fragen.
-
+nutzen als Hilfe. Du darfst auch jederzeit nachfragen oder das Internet nutzen, um sachen nachzuschauen. (z.B. [W3School](https://www.w3schools.com/html/)).
 
 ### Schritt 3 (Optional)
 
