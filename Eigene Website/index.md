@@ -6,3 +6,27 @@ Die Grundstruktur für das HTML file ist wieder gegeben. Du findest es gerade im
 Du kannst deine Website ebenfalls gerade in diesem Folder machen (also alles HTMl & CSS in diesen Folder).
 
 Den Live server kannst du wieder von diesem Folder aus Starten.
+
+## Aufgabe
+
+### Schritt 1
+
+Denk dir zuerst ein Thema aus, zu dem du eine Website machen willst. Das kann alles sein. 
+Falls du keine Idee hast, haben wir hier ein paar Ideen:
+
+* Persönliche Portfolio-Website
+* Online Shop
+* Wiki zu einem Game
+
+Gib deinem Betreuer kurz bescheid was du machen willst bevor du startest.
+
+### Schritt 2
+
+Nun kannst du anfangen die Website zu machen. Du kannst alles, was du bisher bekommen hast an Aufgaben und so weiter
+nutzen als Hilfe. Du kannst auch das Internet nutzen, um sachen nachzuschauen. (z.B. [W3School](https://www.w3schools.com/html/)).
+Du darfst auch jederzeit deinen Betreuer Fragen.
+
+
+### Schritt <ende>
+
+Nun können wir die Website auf Github Pages veröffentlichen. Schau das zusammen mit deinem Betreuer an :)
