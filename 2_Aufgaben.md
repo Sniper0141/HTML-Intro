@@ -66,3 +66,14 @@ Noch offen ist, ob die Alnatura-Supermärkte bestehen bleiben. Die Franchisegebe
 [Original-Artikel](https://www.srf.ch/news/wirtschaft/detailhandel-migros-verkauft-micasa-und-schliesst-do-it-garden-1)
 
 ## CSS (Style your HTML!)
+
+Du hast sicher gemerkt, dass dein HTML-Dokument etwas öde aussieht, im Vergleich zum Original-Artikel.
+Das liegt daran, dass das CSS fehlt.
+
+> CSS => **C**ascading **S**tyle **S**heets
+
+### Wofür ist CSS?
+
+Man verwendet CSS, um seinen Code nicht lahm aussehen zu lassen.
+
+- Öffne [unseren Onlineshop](www.digitec.ch)
