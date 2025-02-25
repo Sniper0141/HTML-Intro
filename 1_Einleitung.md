@@ -12,7 +12,8 @@
 - Als erstes brauchst du den passenden Text-Editor. 
     - z.B. [Visual Studio Code](https://code.visualstudio.com/) von Microsoft
     - Theoretisch geht auch der normale Text-Editor
-- Erstelle eine Datei mit dem Namen `index.html`
+- Erstelle einen neuen Ordner `/intro-code` im Root dieses Projekts (Root ist `HTML-intro`)
+- Erstelle eine Datei mit dem Namen `index.html` im Ordner `/intro-code`
 - Füge folgenden HTML-Code in das File ein:
 ```
 <p> Dies ist ein Paragraph! </p>
@@ -43,3 +44,5 @@ Sie ermöglichen die Unterteilung des Inhaltes.
 | Line-Break | `<br/>` | (= 1 mal Enter drücken) |
 | Heading 1 | `<h1> Überschchrift </h1>` | Überschrift 1 |
 | Heading 2 | `<h2> Überschchrift </h2>` | Überschrift 2 |
+| List | `<ul> <li></li> </ul>` | Liste (mit Listen-Items drin) |
+| List Item | `<li> Dies ist ein list item </li>` | - Punkt einer Liste | 
