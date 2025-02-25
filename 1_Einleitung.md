@@ -39,7 +39,7 @@ Sie ermöglichen die Unterteilung des Inhaltes.
 
 | Element-Name | Beispiel | Beschreibung |
 | ------------ | ---- | ------------ |
-| Division | `<div></div>` | Elemente unterteilen |
+| Division | `<div> </div>` | Elemente unterteilen |
 | Paragraph | `<p> Text </p>` | Texte strukturieren |
 | Line-Break | `<br/>` | (= 1 mal Enter drücken) |
 | Heading 1 | `<h1> Überschchrift </h1>` | Überschrift 1 |
