@@ -6,7 +6,7 @@
 Nach Konvention hat jedes HTML-Dokument einen `<header></header>` und einen `<body></body>`.
 Im Header sind neben-informationen, im Body befindet sich der ganze Rest deines HTML-Codes.
 
-Kopiere folgendes Template in dein `index.html` (ersetze den Inhalt):
+- Kopiere folgendes Template in dein `index.html` (ersetze den Inhalt):
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -23,7 +23,7 @@ Kopiere folgendes Template in dein `index.html` (ersetze den Inhalt):
 </html>
 ```
 
-### Text strukturieren 
+### Aufgabe: Text strukturieren 
 
 - Strukturiere den folgenden Text mit den richtigen HTML-Elementen. Siehe im `1_Einleitung.md`, welche Elemente du verwenden kannst.  
 - Verwende den [Original-Artikel](https://www.srf.ch/news/wirtschaft/detailhandel-migros-verkauft-micasa-und-schliesst-do-it-garden-1) als Referenz *(ein paar Absätze wurden unten  rausgenommen)*.
@@ -72,18 +72,4 @@ noch im ersten Halbjahr geplant. Für die Alnatura-Kunden ändere sich vorerst n
 werden unverändert weitergeführt.»
 ```
 
-## CSS (Style your HTML!)
-
-Du hast sicher gemerkt, dass dein HTML-Dokument etwas öde aussieht, im Vergleich zum Original-Artikel.
-Das liegt daran, dass das CSS fehlt.
-
-> CSS => **C**ascading **S**tyle **S**heets
-
-### Wofür ist CSS?
-
-Man verwendet CSS, um HTML-Dokumente besser zu gestalten.
-
-- Öffne [unseren Onlineshop](https://www.digitec.ch)
-- Öffne die DevTools deines Browsers und lösche den `<head>` des HTML-Codes (CSS muss weg zum demonstrieren)
-    - Falls du nicht weisst, wie man das macht, hole einen von uns zu dir
-- Deswegen brauchen wir CSS.
+- Frage uns bei Unklarheiten oder 
