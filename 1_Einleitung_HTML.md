@@ -7,6 +7,18 @@
 - Sie hilft dir, Dokumente strukturiert und geordnet zu gestalten. 
 - Auf ihr basiert _fast_ das ganze Internet!
 
+## Was sind HTML-Elemente?
+In HTML-Elementen liegt der ganze Sinn von HTML.  
+Sie ermöglichen die Unterteilung des Inhaltes.
+
+- Sie haben meistens einen **öffnenden** "Tag" (z.B. `<p>`)
+- ... oft einen Text oder weitere HTML-Elemente dazwischen
+- ... und einen **schliessenden** Tag (z.B. `</p>`). Das `/` signalisiert das Ende.
+
+> Es gibt noch eine **dritte** Variante, bei der man keinen Text oder weitere Elemente einfügen kann.  
+> Ein Beispiel für ein solches Element wäre der "Line-Break", der wie folgt aussieht: `<br/>`  
+> Bei diesen steht das `/` rechts am Ende, um zu signalisieren, dass das HTML-Element endet.
+
 ## Wie verwende ich HTML?
 
 - Als erstes brauchst du den passenden Text-Editor. 
@@ -22,17 +34,27 @@
 - Öffne das File mit dem Browser
 - Tadaa!
 
-## Was sind HTML-Elemente?
-In HTML-Elementen liegt der ganze Sinn von HTML.  
-Sie ermöglichen die Unterteilung des Inhaltes.
-
-- Sie haben meistens einen **öffnenden** "Tag" (z.B. `<p>`)
-- ... oft einen Text oder weitere HTML-Elemente dazwischen
-- ... und einen **schliessenden** Tag (z.B. `</p>`). Das `/` signalisiert das Ende.
-
-> Es gibt noch eine **dritte** Variante, bei der man keinen Text oder weitere Elemente einfügen kann.  
-> Ein Beispiel für ein solches Element wäre der "Line-Break", der wie folgt aussieht: `<br/>`  
-> Bei diesen steht das `/` rechts am Ende, um zu signalisieren, dass das HTML-Element endet.
+~  
+~  
+~  
+~  
+~  
+~  
+~  
+~  
+~  
+~  
+~  
+~  
+~  
+~  
+~  
+~  
+~  
+~  
+~  
+~  
+~  
 
 ### Wichtigsten Elemente
 
@@ -48,28 +70,6 @@ Sie ermöglichen die Unterteilung des Inhaltes.
 | Image | `<img src="image.png"/>` | Bild-Element mit Bildquelle | 
 
 + [Vollständige Liste der Elemente](https://www.w3schools.com/html/default.asp)  
-
-~  
-~  
-~  
-~  
-~  
-~  
-~  
-~  
-~  
-~  
-~  
-~  
-~  
-~  
-~  
-~  
-~  
-~  
-~  
-~  
-~  
 
 ### Beispiele für die Anwendung *(Code und Resultat)*
 
