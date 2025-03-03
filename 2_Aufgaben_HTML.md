@@ -72,4 +72,4 @@ noch im ersten Halbjahr geplant. Für die Alnatura-Kunden ändere sich vorerst n
 werden unverändert weitergeführt.»
 ```
 
-- Frage uns bei Unklarheiten oder 
+- Frage uns bei Unklarheiten oder Problemen
