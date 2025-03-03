@@ -23,6 +23,7 @@ Im Header sind "Neben-Informationen", im Body befindet sich alles, was angezeigt
 
 ## Aufgabe: Text Strukturieren 
 
+- Erstelle eine neue Datei. Sie muss mit `.html` enden.
 - Strukturiere den folgenden Text mit den richtigen HTML-Elementen. Siehe im `1_Einleitung.md`, welche Elemente du verwenden kannst.  
 - Verwende den [Original-Artikel](https://www.srf.ch/news/wirtschaft/detailhandel-migros-verkauft-micasa-und-schliesst-do-it-garden-1) als Referenz *(ein paar Absätze wurden unten  rausgenommen)*.
 
@@ -74,13 +75,13 @@ werden unverändert weitergeführt.»
 
 ## Aufgabe: Kleines Portfolio 
 
-Mache ein kleines Portfolio über dich selbst. Das soll folgende Sachen enthalten:
-
-- Ein Profilbild 
-- Name
-- Geburtsdatum
-- Herkunft
-- kleines Sätzlein über dich (Hobbies, Freizeit, Geschwister, evtl. Programmierkenntnisse)
-- Kontaktdaten
+- Erstelle eine neue Datei. Sie muss mit `.html` enden.
+- Mach ein kleines Portfolio über dich selbst. Das soll folgende Sachen enthalten:
+    - Profilbild 
+    - Name
+    - Geburtsdatum
+    - Herkunft
+    - kleines Sätzlein über dich (Hobbies, Freizeit, Geschwister, evtl. Programmierkenntnisse)
+    - Kontaktdaten
 
 Verwende dabei die korrekten HTML-Elemente!
