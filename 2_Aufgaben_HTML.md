@@ -11,7 +11,7 @@ Im Header sind "Neben-Informationen", im Body befindet sich alles, was angezeigt
 
     <head>
         <meta charset="UTF-8">
-        <title> Seitentitel </title>
+        <title> Titel der Seite </title>
     </head>
 
     <body>
