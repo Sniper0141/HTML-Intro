@@ -45,6 +45,7 @@ Sie ermöglichen die Unterteilung des Inhaltes.
 | Heading 2 | `<h2> Überschrift </h2>` | Überschrift 2 |
 | List | `<ul> <li></li> </ul>` | Liste (mit Listen-Items drin) |
 | List Item | `<li> Dies ist ein list item </li>` | - Punkt einer Liste | 
+| Image | `<img src="image.png"/>` | Bild-Element mit Bildquelle | 
 
 + [Vollständige Liste der Elemente](https://www.w3schools.com/html/default.asp)  
 
