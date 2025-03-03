@@ -1,6 +1,4 @@
-# Aufgaben
-
-## HTML
+# Aufgaben HTML
 
 ### Grundgerüst 
 Nach Konvention hat jedes HTML-Dokument einen `<header></header>` und einen `<body></body>`.
