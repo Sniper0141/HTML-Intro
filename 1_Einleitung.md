@@ -34,17 +34,45 @@ Sie ermöglichen die Unterteilung des Inhaltes.
 > Ein Beispiel für ein solches Element wäre der "Line-Break", der wie folgt aussieht: `<br/>`  
 > Bei diesen steht das `/` rechts am Ende, um zu signalisieren, dass das HTML-Element endet.
 
-
-### Die wichtigsten Elemente:
+### Wichtigsten Elemente
 
 | Element-Name | Beispiel | Beschreibung |
 | ------------ | ---- | ------------ |
 | Division | `<div> </div>` | Elemente unterteilen |
 | Paragraph | `<p> Text </p>` | Texte strukturieren |
 | Line-Break | `<br/>` | (= 1 mal Enter drücken) |
-| Heading 1 | `<h1> Überschchrift </h1>` | Überschrift 1 |
-| Heading 2 | `<h2> Überschchrift </h2>` | Überschrift 2 |
+| Heading 1 | `<h1> Überschrift </h1>` | Überschrift 1 |
+| Heading 2 | `<h2> Überschrift </h2>` | Überschrift 2 |
 | List | `<ul> <li></li> </ul>` | Liste (mit Listen-Items drin) |
 | List Item | `<li> Dies ist ein list item </li>` | - Punkt einer Liste | 
 
-+ [Vollständige Liste der Elemente](https://www.w3schools.com/html/default.asp)
++ [Vollständige Liste der Elemente](https://www.w3schools.com/html/default.asp)  
+
+### Beispiele für die Anwendung *(Code und Resultat)*
+
+#### -> Ein Div mit zwei Paragraphen und einem Line-Break dazwischen
+```
+<div>
+    <p>Das hier ist ein Text-Paragraph</p>
+    <br/>
+    <p>Das hier ist ein Text-Paragraph</p>
+</div>
+```
+> Das hier ist ein Text-Paragraph
+> 
+> Das hier ist ein Text-Paragraph
+
+
+#### -> Eine (ungeordnete) Liste und ein Paragraph
+```
+<p>Folgende Sachen sind sehr wichtig:</p>
+<ul>
+    <li>Dies</li>
+    <li>Das</li>
+    <li>Jenes</li>
+</ul>
+```
+> Folgende Sachen sind sehr wichtig:
+> - Dies
+> - Das
+> - Jenes
