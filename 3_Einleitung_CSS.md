@@ -110,6 +110,19 @@ Das Element stellt eine *Referenz* zum CSS her.
 ~  
 ~  
 
+## Wichtige CSS-Properties
+| Property | Beschreibung |
+| ---- | ------------ |
+| `color` | Schriftfarbe |
+| `background-color` | Hintergrundfarbe |
+| `font-weight` | Wie fett der Text ist |
+| `text-align` | Text ausrichten |
+| `padding` | Abstand gegen innen |
+| `margin` | Abstand gegen aussen |
+| `border` | die Grenze des Elements |
+
+Für weitere Optionen, durchsuche https://www.w3schools.com/css/ oder suche einfach auf Google.
+
 ## Beispiele von CSS-Rules
 
 > **Zentriert den Text** in den Elementen mit der Klasse `this-is-a-class`.
@@ -134,5 +147,32 @@ Das Element stellt eine *Referenz* zum CSS her.
 ```CSS
 p {
     background-color: blue;
+}
+```
+
+---
+
+> Setzt den **Abstand gegen innen** auf **5 Pixel** (bei allen Elementen).
+```CSS
+* {
+    padding: 5px;
+}
+```
+
+---
+
+> Setzt den **Abstand gegen aussen** auf **5 Pixel** (bei allen Elementen).
+```CSS
+* {
+    margin: 5px;
+}
+```
+
+---
+
+> Macht die Grenze schwarz und 5 Pixel breit (bei allen Elementen).
+```CSS
+* {
+    border: 5px black;
 }
 ```
