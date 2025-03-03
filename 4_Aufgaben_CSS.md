@@ -267,7 +267,7 @@ es auf deiner Webseite sinnvoll einzusetzen.
 4. Wenn du mit allem fertig sind, kannst du nun eine Website mit folgenden Rahmenbedingungen
 erstellen:
 
-***Die Website muss***
+***Die Website soll***
 
 * eine Produktliste beinhalten
 * mindestens ein Produkt in der Liste sollte mit einer Produkdetailseite verlinkt sein
