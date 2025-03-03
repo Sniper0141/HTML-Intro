@@ -2,13 +2,13 @@
 
 - Füge folgendes Element in den `<head>` ein:
     - *damit referenzierst du das CSS-Dokument*
-```
+```HTML
 <link rel="stylesheet" href="stylesheet.css">
 ```
 
 - Erstelle im gleichen Ordner wie das HTML ein File namens `stylesheet.css`. 
 - Kopiere folgenden Code in das File:
-```
+```CSS
 .this-is-a-class {
     text-align: center;
 }

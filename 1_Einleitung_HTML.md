@@ -15,7 +15,7 @@
 - Erstelle einen neuen Ordner `/intro-code` im Root dieses Projekts (Root ist `HTML-intro`)
 - Erstelle eine Datei mit dem Namen `index.html` im Ordner `/intro-code`
 - Füge folgenden HTML-Code in das File ein:
-```
+```HTML
 <p> Dies ist ein Paragraph! </p>
 ```
 - Speichere deine Änderungen mit [CTRL + S]
@@ -74,7 +74,7 @@ Sie ermöglichen die Unterteilung des Inhaltes.
 ### Beispiele für die Anwendung *(Code und Resultat)*
 
 #### -> Ein Div mit zwei Paragraphen und einem Line-Break dazwischen
-```
+```HTML
 <div>
     <p>Das hier ist ein Text-Paragraph</p>
     <br/>
@@ -87,7 +87,7 @@ Sie ermöglichen die Unterteilung des Inhaltes.
 
 
 #### -> Eine (ungeordnete) Liste und ein Paragraph
-```
+```HTML
 <p>Folgende Sachen sind sehr wichtig:</p>
 <ul>
     <li>Dies</li>
@@ -101,7 +101,7 @@ Sie ermöglichen die Unterteilung des Inhaltes.
 > - Jenes
 
 #### -> Ein Bild.
-```
+```HTML
 <img src="./resources/dog.jpg">
 ```
 > ![Hund](./resources/dog.jpg)
