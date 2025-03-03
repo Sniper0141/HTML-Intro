@@ -99,3 +99,9 @@ Sie ermöglichen die Unterteilung des Inhaltes.
 > - Dies
 > - Das
 > - Jenes
+
+#### -> Ein Bild.
+```
+<img src="./resources/dog.jpg">
+```
+> ![Hund](./resources/dog.jpg)
