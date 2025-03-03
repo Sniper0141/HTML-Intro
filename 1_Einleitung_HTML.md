@@ -15,9 +15,31 @@ Sie ermöglichen die Unterteilung des Inhaltes.
 - ... oft einen Text oder weitere HTML-Elemente dazwischen
 - ... und einen **schliessenden** Tag (z.B. `</p>`). Das `/` signalisiert das Ende.
 
+Zwischen die zwei Tags kommt der **Inhalt**.
+
 > Es gibt noch eine **dritte** Variante, bei der man keinen Text oder weitere Elemente einfügen kann.  
 > Ein Beispiel für ein solches Element wäre der "Line-Break", der wie folgt aussieht: `<br/>`  
 > Bei diesen steht das `/` rechts am Ende, um zu signalisieren, dass das HTML-Element endet.
+
+### Beispiel mit `div`-Element
+```HTML
+<div>
+    Inhalt
+</div>
+```
+
+## Was sind Attribute?
+
+Attribute können Werte übernehmen. Sie befinden sich immer im **ersten Tag** vor der Klammer ``>``  
+Sie sind aufgebaut aus:
+- Attribut-Name
+- `=`
+- `""` und darin der Inhalt
+
+### Beispiel mit dem ``class``-Attribut:
+```HTML
+<div class="">  </div>
+```
 
 ## Wie verwende ich HTML?
 
