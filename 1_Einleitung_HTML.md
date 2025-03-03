@@ -38,8 +38,8 @@ Sie ermöglichen die Unterteilung des Inhaltes.
 
 | Element-Name | Beispiel | Beschreibung |
 | ------------ | ---- | ------------ |
-| Division | `<div> </div>` | Elemente unterteilen |
-| Paragraph | `<p> Text </p>` | Texte strukturieren |
+| Division | `<div> Inhalt </div>` | Elemente unterteilen |
+| Paragraph | `<p> Text-Inhalt </p>` | Texte strukturieren |
 | Line-Break | `<br/>` | (= 1 mal Enter drücken) |
 | Heading 1 | `<h1> Überschrift </h1>` | Überschrift 1 |
 | Heading 2 | `<h2> Überschrift </h2>` | Überschrift 2 |
@@ -49,6 +49,13 @@ Sie ermöglichen die Unterteilung des Inhaltes.
 
 + [Vollständige Liste der Elemente](https://www.w3schools.com/html/default.asp)  
 
+~  
+~  
+~  
+~  
+~  
+~  
+~  
 ### Beispiele für die Anwendung *(Code und Resultat)*
 
 #### -> Ein Div mit zwei Paragraphen und einem Line-Break dazwischen
