@@ -5,7 +5,7 @@ Nach Konvention hat jedes HTML-Dokument einen `<header></header>` und einen `<bo
 Im Header sind "Neben-Informationen", im Body befindet sich alles, was angezeigt werden soll.
 
 - Kopiere diesen Code in all deine neuen HTML-Dokumente rein!
-```
+```HTML
 <!DOCTYPE html>
 <html lang="en">
 
