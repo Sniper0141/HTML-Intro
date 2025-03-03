@@ -1,17 +1,17 @@
 # Aufgaben HTML
 
-### Grundgerüst 
-Nach Konvention hat jedes HTML-Dokument einen `<header></header>` und einen `<body></body>`.
-Im Header sind neben-informationen, im Body befindet sich der ganze Rest deines HTML-Codes.
+## Grundgerüst 
+Nach Konvention hat jedes HTML-Dokument einen `<header></header>` und einen `<body></body>`.  
+Im Header sind "Neben-Informationen", im Body befindet sich alles, was angezeigt werden soll.
 
-- Kopiere folgendes Template in dein `index.html` (ersetze den Inhalt):
+- Kopiere diesen Code in all deine neuen HTML-Dokumente rein!
 ```
 <!DOCTYPE html>
 <html lang="en">
 
     <head>
         <meta charset="UTF-8">
-        <title>Page Title</title>
+        <title> Seitentitel </title>
     </head>
 
     <body>
@@ -21,7 +21,7 @@ Im Header sind neben-informationen, im Body befindet sich der ganze Rest deines 
 </html>
 ```
 
-### Aufgabe: Text strukturieren 
+## Aufgabe: Text Strukturieren 
 
 - Strukturiere den folgenden Text mit den richtigen HTML-Elementen. Siehe im `1_Einleitung.md`, welche Elemente du verwenden kannst.  
 - Verwende den [Original-Artikel](https://www.srf.ch/news/wirtschaft/detailhandel-migros-verkauft-micasa-und-schliesst-do-it-garden-1) als Referenz *(ein paar Absätze wurden unten  rausgenommen)*.
@@ -71,3 +71,16 @@ werden unverändert weitergeführt.»
 ```
 
 - Frage uns bei Unklarheiten oder Problemen
+
+## Aufgabe: Kleines Portfolio 
+
+Mache ein kleines Portfolio über dich selbst. Das soll folgende Sachen enthalten:
+
+- Ein Profilbild 
+- Name
+- Geburtsdatum
+- Herkunft
+- kleines Sätzlein über dich (Hobbies, Freizeit, Geschwister, evtl. Programmierkenntnisse)
+- Kontaktdaten
+
+Verwende dabei die korrekten HTML-Elemente!
