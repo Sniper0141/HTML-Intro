@@ -27,4 +27,4 @@ nutzen als Hilfe. Du darfst auch jederzeit nachfragen oder das Internet nutzen, 
 
 ### Schritt 3 (Optional)
 
-Nun können wir die Website auf Github Pages veröffentlichen. Schau das zusammen mit deinem Betreuer an :)
+Nun können wir die Website auf Github Pages veröffentlichen. Schau das zusammen mit deinem Betreuer an
